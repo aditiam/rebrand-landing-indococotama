@@ -1,0 +1,43 @@
+// Variables Font Design
+
+@font-face {
+    font-family: 'TTHoves' ;
+    src: url('../font/TTHoves-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTHoves' ;
+    src: url('../font/TTHoves-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTHoves' ;
+    src: url('../font/TTHoves-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+// Variables Color Design
+$kale: #2F5854;
+$light-kale: #CAD8CE;
+$lighter-kale: #E2E9E4;
+$lime: #CBED60;
+$void: #151515;
+$light-void: #595959;
+
+$font-size-base: 16px;
+$font-family-base: 'TTHoves', sans-serif;
+
+$z-fixed: 100;
+
+$desktop: 1280px;
+$medium-desktop: 1024px;
+$small-desktop: 768px;
+$mobile: 578px;
+$small-mobile: 480px;
+$smaller-mobile: 280px;
+
