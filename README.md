@@ -1,4 +1,4 @@
-?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/1531fda4-8dcd-49e4-a988-f735a22f72d1/deploy-status)](https://app.netlify.com/sites/rebrand-landing-indococotama/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1531fda4-8dcd-49e4-a988-f735a22f72d1/deploy-status)](https://app.netlify.com/sites/rebrand-landing-indococotama/deploys)
 
 ## Available Scripts
 
